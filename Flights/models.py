@@ -2,7 +2,7 @@ import sys
 from django.db import models
 
 
-sys.path.append('/home/sahil/Desktop/FlightApi')
+sys.path.append('/home/newusername/new-repo-name')
 from Airline.models import Airline
 
 

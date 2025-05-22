@@ -24,11 +24,11 @@ Follow the steps below to run this project in your local environment.
 
 1. Clone this project to your local machine:
  ```bash
- git clone https://github.com/username/proje-name.git
+ git clone https://github.com/yourusername/your-new-repo-name.git
  ```
 2. Go to the project directory:
  ```bash
- cd project-name
+ cd your-new-repo-name
  ```
 3. Create a virtual environment:
  ```bash
