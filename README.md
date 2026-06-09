@@ -153,7 +153,7 @@ Django-Based-Flight-Booking-System/
 
 Project designed and developed by **Alejandro Areiza Alzate**, Computer Engineering student at Universidad Autónoma Latinoamericana (UNAULA), Medellín, and GitHub Developer Program member.
 
-- **LinkedIn:** [linkedin.com/in/alejandro-areiza-alzate-8a73a53b4](https://www.linkedin.com/in/alejandro-areiza-alzate-8a73a53b4)
+- **LinkedIn:** [Alejandro A. Alzate](https://www.linkedin.com/in/alejandroareizaa/)
 - **Research (ORCID):** [0009-0002-2116-6918](https://orcid.org/0009-0002-2116-6918)
 - **Certifications:** Microsoft Learn Level 6 — 26,950 XP (Azure Identity, Network Security & SQL Security); Cisco; Google; IBM; OWASP Top 10
 
